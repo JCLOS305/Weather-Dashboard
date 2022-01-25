@@ -28,7 +28,7 @@ For this challenge I was instructed to build a weather dashboard that will run i
 
 
 ## Usage 
- [LINK TO GITHUB HOSTED WEBSITE]() <br/> 
+ [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Weather-Dashboard/) <br/> 
 Test/School/Homework Purposes Only
 
 ![Screenshot](assets/images/weatherDashboard.PNG)
