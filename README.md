@@ -31,7 +31,7 @@ For this challenge I was instructed to build a weather dashboard that will run i
  [LINK TO GITHUB HOSTED WEBSITE]() <br/> 
 Test/School/Homework Purposes Only
 
-![Screenshot](assets\images\weatherDashboard.PNG)
+![Screenshot](assets/images/weatherDashboard.PNG)
 
 
 
